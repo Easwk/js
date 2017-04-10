@@ -1,7 +1,7 @@
 ## About
 
 该项目是一个资料整理项目。
-里面包含了对React全栈知识的学习笔记和资料收集。
+
 
 ## Item
 
@@ -14,6 +14,8 @@
 7. react-redux
 8. nodejs
 9. webpack-router-redux-react 框架搭建
+
+
 
 
 
